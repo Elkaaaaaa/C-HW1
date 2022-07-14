@@ -1,5 +1,4 @@
 ﻿void zadacha2()
-
 {
     Console.WriteLine("Введите первое число");
     int a = Convert.ToInt32(Console.ReadLine());
@@ -63,3 +62,5 @@ void zadacha8()
     else
         Console.WriteLine("Таких чисел нет");
 }
+
+//zadacha8();
